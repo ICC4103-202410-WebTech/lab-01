@@ -22,6 +22,8 @@ In this evaluation, you will be asked to create a personal page on GitHub Pages.
 6. Under "Build and deployment", under "Branch", use the branch dropdown menu and select a publishing source, select root
 ![config](config.png)
 
+> https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
+
 ### Clone Repository
 
 First, clone the repository to your computer and create a blank index.html file to start the laboratory.
